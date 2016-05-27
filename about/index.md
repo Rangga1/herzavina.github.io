@@ -1,23 +1,21 @@
 ---
 layout: page
-title: About the Theme
+title: MY PROFILE
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Full Name             : Herzavina
+* Nick Name             : Herza     
+* Gender                : Female
+* Place, Date of Birth  : October 4th 1994
+* Educational Background: 
+  2001 – 2007 : SDN 029 Pandau Jaya
+  2006 – 2009 : SMPN 10 Pekanbaru
+  2009 – 2012 : SMAN 1 Pekanbaru
+  2013 – now  : Islamic University of Sultan Syarif Kasim Riau, Information System Majority
+
 
 ## Preview
 
